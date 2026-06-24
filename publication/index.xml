@@ -2,21 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jorge Soler-Lopez</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jlopezton.github.io/publication/</link>
+      <atom:link href="https://jlopezton.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://jlopezton.github.io/publication/</link>
     </image>
     
     <item>
+      <title>Backlash of Discrimination: First-Generation Immigrant Voting Behavior in the United States</title>
+      <link>https://jlopezton.github.io/publication/backlash-discrimination/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/backlash-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Insecurity and Migration Intentions in Latin America</title>
+      <link>https://jlopezton.github.io/publication/food-insecurity-migration/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/food-insecurity-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affirmative Action and Democratic Attitudes: Evidence from Uruguay&#39;s Afro-descendant Quota Law</title>
+      <link>https://jlopezton.github.io/publication/affirmative-action-uruguay/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/affirmative-action-uruguay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remittances and Their Effect on Poverty and Inequality in Latin America</title>
+      <link>https://jlopezton.github.io/publication/remittances-poverty-inequality/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-poverty-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating Global Poverty in Stata: The Povcalnet Command</title>
-      <link>/publication/published-paper1/</link>
+      <link>https://jlopezton.github.io/publication/published-paper1/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper1/</guid>
+      <guid>https://jlopezton.github.io/publication/published-paper1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -29,9 +61,9 @@
     
     <item>
       <title>Afro-descendants in Latin America: toward a framework of inclusion</title>
-      <link>/publication/published-paper/</link>
+      <link>https://jlopezton.github.io/publication/published-paper/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper/</guid>
+      <guid>https://jlopezton.github.io/publication/published-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -44,9 +76,9 @@
     
     <item>
       <title>POVCALNET: Stata module to access World Bank Global Poverty and Inequality measures</title>
-      <link>/publication/published-paper2/</link>
+      <link>https://jlopezton.github.io/publication/published-paper2/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper2/</guid>
+      <guid>https://jlopezton.github.io/publication/published-paper2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

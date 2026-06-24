@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q Zhao | Jorge Soler-Lopez</title>
-    <link>/author/q-zhao/</link>
-      <atom:link href="/author/q-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jlopezton.github.io/author/q-zhao/</link>
+      <atom:link href="https://jlopezton.github.io/author/q-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Q Zhao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Q Zhao</title>
-      <link>/author/q-zhao/</link>
+      <link>https://jlopezton.github.io/author/q-zhao/</link>
     </image>
     
     <item>
       <title>Estimating Global Poverty in Stata: The Povcalnet Command</title>
-      <link>/publication/published-paper1/</link>
+      <link>https://jlopezton.github.io/publication/published-paper1/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper1/</guid>
+      <guid>https://jlopezton.github.io/publication/published-paper1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -29,9 +29,9 @@
     
     <item>
       <title>POVCALNET: Stata module to access World Bank Global Poverty and Inequality measures</title>
-      <link>/publication/published-paper2/</link>
+      <link>https://jlopezton.github.io/publication/published-paper2/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper2/</guid>
+      <guid>https://jlopezton.github.io/publication/published-paper2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

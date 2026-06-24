@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Jorge Soler-Lopez</title>
+    <link>https://jlopezton.github.io/publication-type/3/</link>
+      <atom:link href="https://jlopezton.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://jlopezton.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Backlash of Discrimination: First-Generation Immigrant Voting Behavior in the United States</title>
+      <link>https://jlopezton.github.io/publication/backlash-discrimination/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/backlash-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Insecurity and Migration Intentions in Latin America</title>
+      <link>https://jlopezton.github.io/publication/food-insecurity-migration/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/food-insecurity-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affirmative Action and Democratic Attitudes: Evidence from Uruguay&#39;s Afro-descendant Quota Law</title>
+      <link>https://jlopezton.github.io/publication/affirmative-action-uruguay/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/affirmative-action-uruguay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remittances and Their Effect on Poverty and Inequality in Latin America</title>
+      <link>https://jlopezton.github.io/publication/remittances-poverty-inequality/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-poverty-inequality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

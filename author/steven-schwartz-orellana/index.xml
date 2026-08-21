@@ -5,7 +5,7 @@
     <link>https://jlopezton.github.io/author/steven-schwartz-orellana/</link>
       <atom:link href="https://jlopezton.github.io/author/steven-schwartz-orellana/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven Schwartz Orellana</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Steven Schwartz Orellana</title>
@@ -13,18 +13,19 @@
     </image>
     
     <item>
+      <title>Disability Inclusion in Latin America and the Caribbean: A Path to Sustainable Development. (As research team)</title>
+      <link>https://jlopezton.github.io/publication/disability-inclusion-lac/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/disability-inclusion-lac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Afro-descendants in Latin America: toward a framework of inclusion</title>
-      <link>https://jlopezton.github.io/publication/published-paper/</link>
+      <link>https://jlopezton.github.io/publication/afro-lac/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://jlopezton.github.io/publication/published-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://jlopezton.github.io/publication/afro-lac/</guid>
+      <description></description>
     </item>
     
   </channel>

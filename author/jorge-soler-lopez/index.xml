@@ -5,7 +5,7 @@
     <link>https://jlopezton.github.io/author/jorge-soler-lopez/</link>
       <atom:link href="https://jlopezton.github.io/author/jorge-soler-lopez/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge Soler-Lopez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jorge Soler-Lopez</title>
@@ -13,50 +13,107 @@
     </image>
     
     <item>
-      <title>Backlash of Discrimination: First-Generation Immigrant Voting Behavior in the United States</title>
-      <link>https://jlopezton.github.io/publication/backlash-discrimination/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://jlopezton.github.io/publication/backlash-discrimination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Food Insecurity and Migration Intentions in Latin America</title>
-      <link>https://jlopezton.github.io/publication/food-insecurity-migration/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://jlopezton.github.io/publication/food-insecurity-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Affirmative Action and Democratic Attitudes: Evidence from Uruguay&#39;s Afro-descendant Quota Law</title>
+      <title>A Foot in the Door: Ethnic Employment Quotas and Democratic Attitudes in Uruguay</title>
       <link>https://jlopezton.github.io/publication/affirmative-action-uruguay/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://jlopezton.github.io/publication/affirmative-action-uruguay/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Remittances and Their Effect on Poverty and Inequality in Latin America</title>
+      <title>Contesting Identity in Collaborative Knowledge Production: Evidence from Coming-Out Announcements and Wikipedia Biographies</title>
+      <link>https://jlopezton.github.io/publication/contesting-identity-wikipedia/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/contesting-identity-wikipedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalization under Targeted Political Threat: Evidence from Mexican and Chinese Immigrants in the U.S.</title>
+      <link>https://jlopezton.github.io/publication/backlash-discrimination/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/backlash-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latinobarometro: Load, standardize, and enrich Latinobarometro survey waves (Stata command)</title>
+      <link>https://jlopezton.github.io/publication/latinobarometro-command/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/latinobarometro-command/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extreme Heat and Visitor Flows at Open-Air Heritage Sites (working title; feasibility study on Castelseprio)</title>
+      <link>https://jlopezton.github.io/publication/heat-and-heritage-museums/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/heat-and-heritage-museums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generous on Paper? De Jure Regularization, De Facto Documentation, and Migrant Welfare</title>
+      <link>https://jlopezton.github.io/publication/generous-on-paper-venezuela/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/generous-on-paper-venezuela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Insecurity as a Trigger of Migration Intentions: Evidence from a Pandemic Shock in Five Latin American Countries</title>
+      <link>https://jlopezton.github.io/publication/food-insecurity-migration/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/food-insecurity-migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essays on the Legacy of COVID-19: Economic Challenges, Migration Dynamics, and Democracy in a New Era</title>
+      <link>https://jlopezton.github.io/publication/phd-thesis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying the Causal Impact of Remittances on Food Insecurity: Evidence from HFPS Data</title>
+      <link>https://jlopezton.github.io/publication/remittances-food-insecurity/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-food-insecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And Then the World Changed: First Insights on How the Pandemic Affected Remittances in Northern Central America</title>
+      <link>https://jlopezton.github.io/publication/remittances-covid-pandemic-nca/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-covid-pandemic-nca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remittances and their Effects on Poverty and Inequality</title>
       <link>https://jlopezton.github.io/publication/remittances-poverty-inequality/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jlopezton.github.io/publication/remittances-poverty-inequality/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>The protection gap: COVID-19 exposure, job retention schemes and financial strain among older workers in Europe</title>
+      <link>https://jlopezton.github.io/publication/covid-financial-strain-older-adults/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/covid-financial-strain-older-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating Global Poverty in Stata: The Povcalnet Command</title>
-      <link>https://jlopezton.github.io/publication/published-paper1/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jlopezton.github.io/publication/published-paper1/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <link>https://jlopezton.github.io/publication/povcalnet-note/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/povcalnet-note/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -110,32 +167,18 @@ date: 2019-09-01
     
     <item>
       <title>Afro-descendants in Latin America: toward a framework of inclusion</title>
-      <link>https://jlopezton.github.io/publication/published-paper/</link>
+      <link>https://jlopezton.github.io/publication/afro-lac/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://jlopezton.github.io/publication/published-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://jlopezton.github.io/publication/afro-lac/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>POVCALNET: Stata module to access World Bank Global Poverty and Inequality measures</title>
-      <link>https://jlopezton.github.io/publication/published-paper2/</link>
+      <link>https://jlopezton.github.io/publication/povcalnet-command/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://jlopezton.github.io/publication/published-paper2/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://jlopezton.github.io/publication/povcalnet-command/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Jorge Soler-Lopez</title>
+    <link>https://jlopezton.github.io/publication-type/6/</link>
+      <atom:link href="https://jlopezton.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>6</title>
+      <link>https://jlopezton.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>And Then the World Changed: First Insights on How the Pandemic Affected Remittances in Northern Central America</title>
+      <link>https://jlopezton.github.io/publication/remittances-covid-pandemic-nca/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-covid-pandemic-nca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remittances and their Effects on Poverty and Inequality</title>
+      <link>https://jlopezton.github.io/publication/remittances-poverty-inequality/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-poverty-inequality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

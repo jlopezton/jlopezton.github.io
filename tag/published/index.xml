@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>published | Jorge Soler-Lopez</title>
+    <link>https://jlopezton.github.io/tag/published/</link>
+      <atom:link href="https://jlopezton.github.io/tag/published/index.xml" rel="self" type="application/rss+xml" />
+    <description>published</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>published</title>
+      <link>https://jlopezton.github.io/tag/published/</link>
+    </image>
+    
+    <item>
+      <title>latinobarometro: Load, standardize, and enrich Latinobarometro survey waves (Stata command)</title>
+      <link>https://jlopezton.github.io/publication/latinobarometro-command/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/latinobarometro-command/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essays on the Legacy of COVID-19: Economic Challenges, Migration Dynamics, and Democracy in a New Era</title>
+      <link>https://jlopezton.github.io/publication/phd-thesis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>And Then the World Changed: First Insights on How the Pandemic Affected Remittances in Northern Central America</title>
+      <link>https://jlopezton.github.io/publication/remittances-covid-pandemic-nca/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-covid-pandemic-nca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remittances and their Effects on Poverty and Inequality</title>
+      <link>https://jlopezton.github.io/publication/remittances-poverty-inequality/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/remittances-poverty-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disability Inclusion in Latin America and the Caribbean: A Path to Sustainable Development. (As research team)</title>
+      <link>https://jlopezton.github.io/publication/disability-inclusion-lac/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/disability-inclusion-lac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Global Poverty in Stata: The Povcalnet Command</title>
+      <link>https://jlopezton.github.io/publication/povcalnet-note/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/povcalnet-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Afro-descendants in Latin America: toward a framework of inclusion</title>
+      <link>https://jlopezton.github.io/publication/afro-lac/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/afro-lac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POVCALNET: Stata module to access World Bank Global Poverty and Inequality measures</title>
+      <link>https://jlopezton.github.io/publication/povcalnet-command/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/povcalnet-command/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

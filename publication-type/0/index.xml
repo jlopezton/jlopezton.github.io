@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Jorge Soler-Lopez</title>
+    <link>https://jlopezton.github.io/publication-type/0/</link>
+      <atom:link href="https://jlopezton.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jlopezton.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://jlopezton.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>latinobarometro: Load, standardize, and enrich Latinobarometro survey waves (Stata command)</title>
+      <link>https://jlopezton.github.io/publication/latinobarometro-command/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/latinobarometro-command/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POVCALNET: Stata module to access World Bank Global Poverty and Inequality measures</title>
+      <link>https://jlopezton.github.io/publication/povcalnet-command/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jlopezton.github.io/publication/povcalnet-command/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
